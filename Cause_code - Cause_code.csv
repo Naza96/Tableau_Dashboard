@@ -1,0 +1,12 @@
+General Cause,Cause ID,Cause Name
+Accidents,"V01-X59,Y85-Y86",Unintentional injuries
+Alzheimer's disease,G30,Alzheimer's disease
+Cerebrovascular diseases,I60-I69,Stroke
+Chronic lower respiratory diseases,J40-J47,CLRD
+Diabetes mellitus,E10-E14,Diabetes
+Diseases of heart,"I00-I09,I11,I13,I20-I51",Heart disease
+Influenza and pneumonia,J09-J18,Influenza and pneumonia
+Intentional self-harm,"*U03,X60-X84,Y87.0",Suicide
+Malignant neoplasms,C00-C97,Cancer
+"Nephritis, nephrotic syndrome and nephrosis ","N00-N07,N17-N19,N25-N27",Kidney disease
+Details unknown or not collected,Unknown,Unknown
